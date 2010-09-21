@@ -3,7 +3,7 @@ DOMTreeMap
 
 DOMTreeMap is a robust, library agnostic, HTML/CSS/JavaScript TreeMap visualization library.
 
-![A Cushion Strip TreeMap example](http://blog.thejit.org/wp-content/static/img/cushion.png)
+![A Cushion Strip TreeMap example](http://blog.thejit.org/assets/static/img/cushion.png)
 
 Description
 ---------
